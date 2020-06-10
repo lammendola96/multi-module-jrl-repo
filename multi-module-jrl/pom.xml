@@ -63,5 +63,6 @@
 
 	<modules>
 		<module>multi-module-jrl-domain</module>
+		<module>multi-module-jrl-persistence</module>
 	</modules>
 </project>
