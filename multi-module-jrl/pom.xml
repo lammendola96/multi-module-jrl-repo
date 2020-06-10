@@ -66,5 +66,6 @@
 		<module>multi-module-jrl-persistence</module>
 		<module>multi-module-jrl-exception</module>
 		<module>multi-module-jrl-business</module>
+		<module>multi-module-jrl-controller</module>
 	</modules>
 </project>
