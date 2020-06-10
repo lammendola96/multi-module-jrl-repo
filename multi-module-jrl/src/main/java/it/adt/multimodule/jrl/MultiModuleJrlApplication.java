@@ -1,0 +1,13 @@
+package it.adt.multimodule.jrl;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MultiModuleJrlApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MultiModuleJrlApplication.class, args);
+	}
+
+}
