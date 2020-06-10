@@ -65,5 +65,6 @@
 		<module>multi-module-jrl-domain</module>
 		<module>multi-module-jrl-persistence</module>
 		<module>multi-module-jrl-exception</module>
+		<module>multi-module-jrl-business</module>
 	</modules>
 </project>
