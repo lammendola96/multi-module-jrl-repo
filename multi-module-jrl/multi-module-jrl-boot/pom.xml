@@ -5,5 +5,11 @@
     <artifactId>multi-module-jrl</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>multi-module-jrl-domain</artifactId>
+  <artifactId>multi-module-jrl-boot</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>it.adt.multimodule.jrl</groupId>
+  		<artifactId>multi-module-jrl-controller</artifactId>
+  	</dependency>
+  </dependencies>
 </project>
